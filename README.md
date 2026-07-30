@@ -14,6 +14,7 @@ leetcode problems
 | ------- |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
@@ -31,4 +32,12 @@ leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Greedy
+|  |
+| ------- |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 <!---LeetCode Topics End-->
