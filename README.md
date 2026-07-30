@@ -14,6 +14,7 @@ leetcode problems
 | ------- |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
+| [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -40,4 +41,8 @@ leetcode problems
 |  |
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+## Simulation
+|  |
+| ------- |
+| [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
 <!---LeetCode Topics End-->
