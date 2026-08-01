@@ -42,6 +42,7 @@ leetcode problems
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Yuusshaa/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0020-valid-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/0020-valid-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Yuusshaa/LEETCODE/tree/master/3019-number-of-changing-keys) |
@@ -67,4 +68,8 @@ leetcode problems
 | ------- |
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Yuusshaa/LEETCODE/tree/master/0051-n-queens) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
