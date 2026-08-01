@@ -11,6 +11,7 @@ leetcode problems
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Yuusshaa/LEETCODE/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
+| [0118-pascals-triangle](https://github.com/Yuusshaa/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
@@ -37,6 +38,7 @@ leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Yuusshaa/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
