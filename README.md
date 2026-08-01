@@ -7,6 +7,7 @@ leetcode problems
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yuusshaa/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Yuusshaa/LEETCODE/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -22,11 +23,13 @@ leetcode problems
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yuusshaa/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yuusshaa/LEETCODE/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -61,5 +64,6 @@ leetcode problems
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Yuusshaa/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
