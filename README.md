@@ -10,12 +10,14 @@ leetcode problems
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Yuusshaa/LEETCODE/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 | [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -34,6 +36,7 @@ leetcode problems
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Memoization
 |  |
 | ------- |
@@ -72,4 +75,12 @@ leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/0020-valid-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
