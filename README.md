@@ -37,6 +37,7 @@ leetcode problems
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Yuusshaa/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
