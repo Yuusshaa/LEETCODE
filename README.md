@@ -47,6 +47,7 @@ leetcode problems
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Yuusshaa/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3019-number-of-changing-keys](https://github.com/Yuusshaa/LEETCODE/tree/master/3019-number-of-changing-keys) |
@@ -88,4 +89,12 @@ leetcode problems
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Yuusshaa/LEETCODE/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
