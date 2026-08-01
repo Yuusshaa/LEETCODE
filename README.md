@@ -6,6 +6,7 @@ leetcode problems
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Yuusshaa/LEETCODE/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Yuusshaa/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Yuusshaa/LEETCODE/tree/master/0051-n-queens) |
@@ -83,4 +84,8 @@ leetcode problems
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Yuusshaa/LEETCODE/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
