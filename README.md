@@ -15,6 +15,7 @@ leetcode problems
 | [0118-pascals-triangle](https://github.com/Yuusshaa/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0287-find-the-duplicate-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0605-can-place-flowers](https://github.com/Yuusshaa/LEETCODE/tree/master/0605-can-place-flowers) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3731-find-missing-elements](https://github.com/Yuusshaa/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Math
@@ -62,6 +63,7 @@ leetcode problems
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/Yuusshaa/LEETCODE/tree/master/0605-can-place-flowers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
