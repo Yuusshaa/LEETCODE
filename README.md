@@ -19,6 +19,7 @@ leetcode problems
 | [0287-find-the-duplicate-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/Yuusshaa/LEETCODE/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3731-find-missing-elements](https://github.com/Yuusshaa/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Math
@@ -74,6 +75,7 @@ leetcode problems
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
 | [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
 ## Sorting
 |  |
@@ -95,6 +97,7 @@ leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
 ## Recursion
 |  |
 | ------- |
