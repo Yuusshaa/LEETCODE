@@ -29,6 +29,7 @@ leetcode problems
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -53,6 +54,7 @@ leetcode problems
 | [0119-pascals-triangle-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yuusshaa/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
 ## Memoization
 |  |
 | ------- |
@@ -111,6 +113,7 @@ leetcode problems
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
+| [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,4 +173,20 @@ leetcode problems
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
