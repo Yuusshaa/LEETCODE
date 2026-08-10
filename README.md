@@ -33,6 +33,7 @@ leetcode problems
 | [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yuusshaa/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Hash Table
 |  |
 | ------- |
@@ -195,4 +196,8 @@ leetcode problems
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuusshaa/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Yuusshaa/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
