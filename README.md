@@ -26,6 +26,7 @@ leetcode problems
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yuusshaa/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0263-ugly-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0263-ugly-number) |
@@ -38,6 +39,7 @@ leetcode problems
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Yuusshaa/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Yuusshaa/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
@@ -65,6 +67,7 @@ leetcode problems
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Yuusshaa/LEETCODE/tree/master/0006-zigzag-conversion) |
+| [0012-integer-to-roman](https://github.com/Yuusshaa/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Yuusshaa/LEETCODE/tree/master/0125-valid-palindrome) |
