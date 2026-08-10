@@ -28,6 +28,7 @@ leetcode problems
 | ------- |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
