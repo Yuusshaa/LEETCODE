@@ -19,6 +19,7 @@ leetcode problems
 | [0283-move-zeroes](https://github.com/Yuusshaa/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Yuusshaa/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -44,6 +45,7 @@ leetcode problems
 | [0036-valid-sudoku](https://github.com/Yuusshaa/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Yuusshaa/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -112,6 +114,7 @@ leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 ## Recursion
@@ -207,4 +210,8 @@ leetcode problems
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Yuusshaa/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
