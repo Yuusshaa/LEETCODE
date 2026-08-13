@@ -31,6 +31,7 @@ leetcode problems
 | [0012-integer-to-roman](https://github.com/Yuusshaa/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Yuusshaa/LEETCODE/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yuusshaa/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
@@ -44,6 +45,7 @@ leetcode problems
 | [0012-integer-to-roman](https://github.com/Yuusshaa/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Yuusshaa/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
+| [0202-happy-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0202-happy-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -137,6 +139,7 @@ leetcode problems
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Yuusshaa/LEETCODE/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Yuusshaa/LEETCODE/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Yuusshaa/LEETCODE/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0344-reverse-string) |
@@ -182,6 +185,7 @@ leetcode problems
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
