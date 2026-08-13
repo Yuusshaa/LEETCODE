@@ -22,6 +22,7 @@ leetcode problems
 | [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Yuusshaa/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yuusshaa/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3731-find-missing-elements](https://github.com/Yuusshaa/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -56,6 +57,7 @@ leetcode problems
 | ------- |
 | [0036-valid-sudoku](https://github.com/Yuusshaa/LEETCODE/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yuusshaa/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +101,7 @@ leetcode problems
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Yuusshaa/LEETCODE/tree/master/0088-merge-sorted-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yuusshaa/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Yuusshaa/LEETCODE/tree/master/3731-find-missing-elements) |
@@ -133,6 +136,7 @@ leetcode problems
 | ------- |
 | [0035-search-insert-position](https://github.com/Yuusshaa/LEETCODE/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yuusshaa/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -223,4 +227,8 @@ leetcode problems
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Yuusshaa/LEETCODE/tree/master/0191-number-of-1-bits) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yuusshaa/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
