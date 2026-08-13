@@ -1,24 +1,20 @@
 class Solution {
 public:
-    int nextValue(int n) {
-        int sum = 0;
-        while (n > 0) {
-            int digit = n % 10;
-            sum += digit * digit;
-            n /= 10;
-        }
-        return sum;
-    }
-    
     bool isHappy(int n) {
-        int slow = n;
-        int fast = n;
+        if (n == 1 || n == 7) return true;
         
-        do {
-            slow = nextValue(slow);         
-            fast = nextValue(nextValue(fast)); 
-        } while (slow != fast);
+        while (n > 9) {
+            int sum = 0;
+            while (n > 0) {
+                int digit = n % 10;
+                sum += digit * digit;
+                n /= 10;
+            }
+            n = sum;
+            
+            if (n == 1 || n == 7) return true;
+        }
         
-        return slow == 1;
+        return false;
     }
 };
