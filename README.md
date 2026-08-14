@@ -35,6 +35,7 @@ leetcode problems
 | [0202-happy-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0263-ugly-number) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
+| [0492-construct-the-rectangle](https://github.com/Yuusshaa/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
 | [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
