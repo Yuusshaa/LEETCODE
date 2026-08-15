@@ -24,6 +24,7 @@ leetcode problems
 | [0605-can-place-flowers](https://github.com/Yuusshaa/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yuusshaa/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2057-smallest-index-with-equal-value](https://github.com/Yuusshaa/LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuusshaa/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
