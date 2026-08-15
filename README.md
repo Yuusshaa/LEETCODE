@@ -26,6 +26,7 @@ leetcode problems
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yuusshaa/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Yuusshaa/LEETCODE/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuusshaa/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Yuusshaa/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -187,6 +188,7 @@ leetcode problems
 | [0136-single-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/Yuusshaa/LEETCODE/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0287-find-the-duplicate-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yuusshaa/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Pigeonhole Principle
 |  |
 | ------- |
