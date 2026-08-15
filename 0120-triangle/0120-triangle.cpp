@@ -20,7 +20,12 @@ public:
                 }
          }
        int sz=triangle.size()-1;
-       int ans= *min_element(triangle[sz].begin(),triangle[sz].end());
+       int ans = triangle[sz][0];
+        for (int j = 1; j < triangle[sz].size(); j++) {
+            if (triangle[sz][j] < ans) {
+                ans = triangle[sz][j];
+            }
+}
         return ans;
     }
 };
