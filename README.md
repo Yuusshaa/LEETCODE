@@ -26,6 +26,7 @@ leetcode problems
 | [0605-can-place-flowers](https://github.com/Yuusshaa/LEETCODE/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Yuusshaa/LEETCODE/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Yuusshaa/LEETCODE/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [2029-stone-game-ix](https://github.com/Yuusshaa/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2057-smallest-index-with-equal-value](https://github.com/Yuusshaa/LEETCODE/tree/master/2057-smallest-index-with-equal-value) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
