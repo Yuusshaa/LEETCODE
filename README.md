@@ -57,6 +57,7 @@ leetcode problems
 | [0037-sudoku-solver](https://github.com/Yuusshaa/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0202-happy-number](https://github.com/Yuusshaa/LEETCODE/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Yuusshaa/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -94,6 +95,7 @@ leetcode problems
 | [0125-valid-palindrome](https://github.com/Yuusshaa/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Yuusshaa/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Yuusshaa/LEETCODE/tree/master/0482-license-key-formatting) |
 | [1021-remove-outermost-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -127,6 +129,7 @@ leetcode problems
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Yuusshaa/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/Yuusshaa/LEETCODE/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
