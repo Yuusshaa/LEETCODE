@@ -61,6 +61,7 @@ leetcode problems
 | [0383-ransom-note](https://github.com/Yuusshaa/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
+| [0859-buddy-strings](https://github.com/Yuusshaa/LEETCODE/tree/master/0859-buddy-strings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yuusshaa/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yuusshaa/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -99,6 +100,7 @@ leetcode problems
 | [0383-ransom-note](https://github.com/Yuusshaa/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Yuusshaa/LEETCODE/tree/master/0482-license-key-formatting) |
+| [0859-buddy-strings](https://github.com/Yuusshaa/LEETCODE/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Yuusshaa/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
