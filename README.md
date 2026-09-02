@@ -161,6 +161,7 @@ leetcode problems
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yuusshaa/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
@@ -259,6 +260,7 @@ leetcode problems
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Yuusshaa/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yuusshaa/LEETCODE/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Number Theory
 |  |
