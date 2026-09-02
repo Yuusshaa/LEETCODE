@@ -48,6 +48,7 @@ leetcode problems
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0492-construct-the-rectangle](https://github.com/Yuusshaa/LEETCODE/tree/master/0492-construct-the-rectangle) |
 | [1510-stone-game-iv](https://github.com/Yuusshaa/LEETCODE/tree/master/1510-stone-game-iv) |
+| [1925-count-square-sum-triples](https://github.com/Yuusshaa/LEETCODE/tree/master/1925-count-square-sum-triples) |
 | [2029-stone-game-ix](https://github.com/Yuusshaa/LEETCODE/tree/master/2029-stone-game-ix) |
 | [2739-total-distance-traveled](https://github.com/Yuusshaa/LEETCODE/tree/master/2739-total-distance-traveled) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Yuusshaa/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -283,4 +284,8 @@ leetcode problems
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Yuusshaa/LEETCODE/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Enumeration
+|  |
+| ------- |
+| [1925-count-square-sum-triples](https://github.com/Yuusshaa/LEETCODE/tree/master/1925-count-square-sum-triples) |
 <!---LeetCode Topics End-->
