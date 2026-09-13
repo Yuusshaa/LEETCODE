@@ -108,6 +108,7 @@ leetcode problems
 | [0345-reverse-vowels-of-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Yuusshaa/LEETCODE/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0394-decode-string) |
 | [0482-license-key-formatting](https://github.com/Yuusshaa/LEETCODE/tree/master/0482-license-key-formatting) |
 | [0859-buddy-strings](https://github.com/Yuusshaa/LEETCODE/tree/master/0859-buddy-strings) |
 | [1021-remove-outermost-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -159,6 +160,7 @@ leetcode problems
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Yuusshaa/LEETCODE/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Yuusshaa/LEETCODE/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Yuusshaa/LEETCODE/tree/master/1021-remove-outermost-parentheses) |
@@ -167,6 +169,7 @@ leetcode problems
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yuusshaa/LEETCODE/tree/master/0021-merge-two-sorted-lists) |
+| [0394-decode-string](https://github.com/Yuusshaa/LEETCODE/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Yuusshaa/LEETCODE/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
